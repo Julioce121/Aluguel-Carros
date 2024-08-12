@@ -1,0 +1,9 @@
+.carousel-caption h5 {
+  font-size: 80px;
+  color: goldenrod;
+  text-shadow: 2px 2px 2px black;
+}
+section {
+  color: black;
+  background-color: aliceblue;
+}
